@@ -1,0 +1,51 @@
+integrator               = md        ; dynamics integrator
+dt                       = 0.001     ; time step (ps)
+nsteps                   = 100000   ; total steps (100 ps)
+comm-mode                = Linear    ; remove linear momentum
+
+; OUTPUT SETTINGS
+nstxout                  = 0         ; disable full-precision trajectory output
+nstvout                  = 0         ; disable velocity output
+nstfout                  = 0         ; disable force output
+nstlog                   = 5000      ; write log every 5 ps
+nstenergy                = 5000      ; write energy every 5 ps
+nstxout-compressed       = 5000      ; write compressed trajectory (xtc) every 5 ps
+
+; NEIGHBOR SEARCHING
+cutoff-scheme            = Verlet    ; Verlet cutoff scheme
+ns-type                  = grid      ; grid neighbor search
+nstlist                  = 40        ; update neighbor list every 40 steps
+pbc                      = xyz       ; 3D periodic boundary conditions
+
+; ELECTROSTATICS (key parameters)
+coulombtype              = PME       ; Particle Mesh Ewald method
+rcoulomb                 = 1.2       ; electrostatic cutoff radius (nm)
+fourierspacing           = 0.12      ; PME grid spacing
+pme-order                = 4         ; B-spline interpolation order
+
+; VAN DER WAALS
+vdwtype                  = Cut-off
+vdw-modifier             = Potential-shift-verlet ; potential shift
+rvdw                     = 1.2       ; vdW cutoff radius (nm)
+
+; TEMPERATURE COUPLING (Berendsen or v-rescale)
+tcoupl                   = v-rescale ; recommended for electrolytes
+tc-grps                  = System    ; couple the whole system
+tau_t                    = 0.5       ; coupling time constant (ps)
+ref_t                    = 298.15    ; reference temperature (298.15 K)
+
+; PRESSURE COUPLING (key parameters)
+pcoupl                   = C-rescale ; suitable for electrolytes
+pcoupltype               = isotropic ; isotropic pressure coupling
+tau_p                    = 2.0       ; pressure relaxation time (ps)
+ref_p                    = 1.01325       ; reference pressure (1 bar)
+compressibility          = 4.5e-5    ; isothermal compressibility (bar^-1)
+
+; CONSTRAINTS
+constraints              = h-bonds   ; constrain all hydrogen bonds
+constraint-algorithm     = LINCS     ; recommended algorithm
+lincs-iter               = 2         ; number of LINCS iterations
+lincs-order              = 4         ; interpolation order
+
+; VELOCITY INITIALIZATION
+gen-vel                  = no        ; read velocities from the input file

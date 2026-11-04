@@ -1,0 +1,1452 @@
+[
+  {
+    "name": "carbonate solvents",
+    "count": 14,
+    "smiles": null
+  },
+  {
+    "name": "ethylene_carbonate",
+    "count": 13,
+    "smiles": "O=C1OCCO1"
+  },
+  {
+    "name": "additive",
+    "count": 11,
+    "smiles": null
+  },
+  {
+    "name": "methyl butyrate",
+    "count": 11,
+    "smiles": "CCCC(=O)OC"
+  },
+  {
+    "name": "ratio",
+    "count": 10,
+    "smiles": null
+  },
+  {
+    "name": "ethyl_methyl_carbonate",
+    "count": 9,
+    "smiles": "COC(=O)OCC"
+  },
+  {
+    "name": "PEO",
+    "count": 6,
+    "smiles": null
+  },
+  {
+    "name": "LLZTO",
+    "count": 6,
+    "smiles": null
+  },
+  {
+    "name": "LiF",
+    "count": 6,
+    "smiles": "[Li+].[F-]"
+  },
+  {
+    "name": "diethyl_carbonate",
+    "count": 6,
+    "smiles": "CCOC(=O)OCC"
+  },
+  {
+    "name": "BA",
+    "count": 6,
+    "smiles": null
+  },
+  {
+    "name": "carbonate mixture",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "PVDF",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "PFPAA",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "uncertain",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "MEC",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "PA-5",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "methyl acetate",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "CPME",
+    "count": 5,
+    "smiles": "COC1CCCC1"
+  },
+  {
+    "name": "MeTHF",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "unspecified carbonate/ether system",
+    "count": 5,
+    "smiles": null
+  },
+  {
+    "name": "TFME",
+    "count": 5,
+    "smiles": "COC(F)(F)C(F)F"
+  },
+  {
+    "name": "EPCP",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "DMTMSP",
+    "count": 4,
+    "smiles": "COP(OC)O[Si](C)(C)C"
+  },
+  {
+    "name": "DENE",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "trimethyl borate (TMB)",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "vinyl ethylene carbonate (VEC)",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "carbonate solvent(s)",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "diluent",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "18-crown-6 ether",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "EMI-BF4",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "FEA",
+    "count": 4,
+    "smiles": null
+  },
+  {
+    "name": "diethylene carbonate",
+    "count": 3,
+    "smiles": "O=C1OCCOCCO1"
+  },
+  {
+    "name": "other_carbonates",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "EMS",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "2-fluoropyridine",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "GTCE",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "CTAC",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "TS",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "OFE",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "N-methyl-2,2,2-trifluoroacetamide",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "acetone (DMK)",
+    "count": 3,
+    "smiles": "CC(=O)C"
+  },
+  {
+    "name": "dichloromethane",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "TFP",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "OTE",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "dimethyl_carbonate",
+    "count": 3,
+    "smiles": "COC(=O)OC"
+  },
+  {
+    "name": "3-(2-methoxyethoxy)propanenitrile",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "2MeTHF",
+    "count": 3,
+    "smiles": "CC1CCCO1"
+  },
+  {
+    "name": "carbonate baseline",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "APTES",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "Pyr13FSI",
+    "count": 3,
+    "smiles": "CCC[N+]1(CCCC1)C.[N-](S(=O)(=O)F)S(=O)(=O)F"
+  },
+  {
+    "name": "FDMAC",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "solvent",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "1,3-PS",
+    "count": 3,
+    "smiles": "O=S1(=O)OCCC1"
+  },
+  {
+    "name": "GLN",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "CMDO",
+    "count": 3,
+    "smiles": null
+  },
+  {
+    "name": "CF3-EC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "Di-(CF3)-EC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "additives",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "tris(trimethylsilyl) phosphite (TMSPi)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "lithium difluoro(oxalato)borate (LiDFOB)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "LiPO2F2",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "[MEMP][TFSI]",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "polymer_matrix",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "inorganic_filler",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "HTN",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "LiNO3",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "low-HOMO solvents",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "methyl(2,2,2-trifluoroethyl)carbonate (FEMC)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "1,2-difluorobenzene",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "ethyl fluoroacetate (EFA)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "BFEC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "LiNO3_in_sulfolane",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "TFEO",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "TPFPB",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "BZTF",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "PACA",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "trifluoromethylbenzene",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "dimethoxy(methyl)(3,3,3-trifluoropropyl)silane",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "difluoroethylene carbonate",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "bis(2,2,2-trifluoroethyl) ether (BTFE)",
+    "count": 2,
+    "smiles": "FC(F)(F)COCC(F)(F)F"
+  },
+  {
+    "name": "TMSPa",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "2-TP",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "SUN",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "bis(2,2,2-trifluoroethyl) carbonate",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "trimethyl phosphite",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "phenyl trifluoromethyl sulfide",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "bis(2-fluoroethyl) ether (BFE)",
+    "count": 2,
+    "smiles": "FCCOCCF"
+  },
+  {
+    "name": "DTD",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "other film-forming additives",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "1,1,2,2-tetrafluoroethyl methyl ether",
+    "count": 2,
+    "smiles": "COC(F)(F)C(F)F"
+  },
+  {
+    "name": "LB_301",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "BP",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "CHB",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "linear carbonates",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "OFP",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "VEC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "G4",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "methyl_propionate",
+    "count": 2,
+    "smiles": "CCC(=O)OC"
+  },
+  {
+    "name": "TFMB",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "hexyl methyl ether (HME)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "dipolyformaldehyde dimethyl ether (DDE)",
+    "count": 2,
+    "smiles": "COCOCOC"
+  },
+  {
+    "name": "TGDME",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "EC-based carbonate electrolyte",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "N-methyl-2-pyrrolidone",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "trimethyl phosphate",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "tetramethylurea (TMU)",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "THF2",
+    "count": 2,
+    "smiles": "C1CCOC1"
+  },
+  {
+    "name": "electrolyte",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "C3mpyrFSI",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "1,3-propane sultone",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "amide",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "cosolvent",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "OOE",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "TMPS",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "DiFEC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "MTFC",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "HFME",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "toluene",
+    "count": 2,
+    "smiles": null
+  },
+  {
+    "name": "1,3,5-trifluorobenzene (3FB)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,4-dicyanobutane",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethylene sulfite",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-propenyl sulfite",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFPE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "green ethyl methyl carbonate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HBAG additive",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFE-1",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFE-2",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFE-3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFE-4",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFE-5",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "N,N-dimethyltrifluoroacetamide",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "N,N-dimethylacrylamide",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PFPBA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PFB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PBA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "casting_solvent",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TTM",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TM",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MBS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PFPN-derived species",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "linear carbonates (DEC/EMC/DMC)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DODSi",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TMSB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "N-methyl-N-propylpiperidinium difluoro(oxalato)borate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "Pip13DFOB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "CuF2",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DMCF3SA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFSPP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "M4FP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-dimethoxypropane (DMP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,1,1-trifluoro-2,3-dimethoxypropane (TFDMP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl methanesulfonate (EM)",
+    "count": 1,
+    "smiles": "CCOS(=O)(=O)C"
+  },
+  {
+    "name": "prop-1-ene-1,3-sultone (PES)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,4-butane sultone (BS)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "diethyl (2-methoxy ethoxy) methylphosphonate (DMEP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethylene ethyl phosphate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "3-fluoropyridine",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "BFA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD-F",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD-CN",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD-COOCH2CH3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD-CHO",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DPD-CN-OCH3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MDO",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FEC_additive",
+    "count": 1,
+    "smiles": "O=C1OCC(F)O1"
+  },
+  {
+    "name": "Cl-DEE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "2,4-difluoropyridine",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "2-fluoro-5-nitropyridine",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-dipropoxyethane (DPE)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-diethoxypropane (DEP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "N2FC phosphate additive",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ACN",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "bis(2-fluoroethoxy) methane (BFME)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethylene glycol dibutyl ether (EGDBE)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "CNFE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HTCN",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "carbonate-based solvents",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PFM",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "carbonate solvent",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "fluorinated ether diluent",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl trifluoroacetate (f-EA)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "[Vmim1O2][TFSI]",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFETFE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "dimethoxyethane",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "linear carbonate (EMC)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "phosphoric acid triisopropyl ester (TEPP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "tris(hexafluoroisopropyl)phosphate (THFP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,3,6-hexanetricarbonitrile",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl-(2,2,2-trifluoroethyl) carbonate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "tripropargyl phosphate (TPP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TAIC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "NmAc",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "triglyme (G3)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DCP (diethyl cyanidophosphate)",
+    "count": 1,
+    "smiles": "CCOP(=O)(C#N)OCC"
+  },
+  {
+    "name": "DCMP (diethyl cyanomethyl phosphate)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DCEP (diethyl (2-cyanethyl) phosphonate)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TPPO",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "bis(2,2,2-trifluoroethyl) carbonate (BTC)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "F3B",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "fluorinated ester",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "dimethyl ether",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PFE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "NTSA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFEB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "EHFB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PPEO-CF3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PXEO-CF3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-PS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,3-PCS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "benzene (Ben)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "M3",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "methyl ethyl carbonate",
+    "count": 1,
+    "smiles": "COC(=O)OCC"
+  },
+  {
+    "name": "D2 ether",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "LiODFB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TMSP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "LiDFOB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "2,2,2-trifluoroethyl butyrate (TFEB)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "2,2,2-trifluoroethyl acetate (TFEA)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "methyl pentafluoropropionate (MPFP)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "esters or ethers",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DBC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "HFT",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PhEC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MPN",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,3,2-dioxathiolane 2,2-dioxide",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,3,2-dioxathiolane 2,2-dioxide (reduced, ring-opened)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "THFCl",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TSi",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "fluoromethane",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "n-hexane (HEX)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "tripolyformaldehyde dimethyl ether (TDE)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "tetrapolyformaldehyde dimethyl ether (TTDE)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "dipropyl ether (PE)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "lithium difluorophosphate (LiPO2F2)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "E3F1",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "E3CH2F",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "E2CH2F",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "E1CH2F",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "pyridine",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FMP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FM2 phosphazene",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FM3 phosphazene",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FM4 phosphazene",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TFMP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PTFEC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MHFPC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl propionate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl butyrate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "FEE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "OFDEE",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DBU",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,2-dichloropropane",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1,3-dichloropropane",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "1FEMC",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "p-FT",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "t-BB",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "CAn",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "SAn",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "TMOS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DDOS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MTOS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "PTSI",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "BME",
+    "count": 1,
+    "smiles": "CCCCOC"
+  },
+  {
+    "name": "BS",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DIOX",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "commercial carbonate mixture",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethyl_trifluoroacetate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "fluoroethylene_carbonate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MEA",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MMP",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "N-methylacetamide (NMAc)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "solvent_1",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "solvent_2",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MME",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "isoxazole",
+    "count": 1,
+    "smiles": "o1nccc1"
+  },
+  {
+    "name": "fluorinated ethylene carbonate",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "linear carbonates (e.g., DMC/EMC/DEC)",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "carbonates or esters",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "ethers or fluorinated components",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "primary solvent",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "cosolvent/diluent",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "base solvent system",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "MODOL",
+    "count": 1,
+    "smiles": null
+  },
+  {
+    "name": "DEFM",
+    "count": 1,
+    "smiles": null
+  }
+]

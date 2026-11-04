@@ -1,0 +1,766 @@
+[
+  {
+    "name": "1,2-dfBen",
+    "smiles": "FC1=CC=CC=C1F"
+  },
+  {
+    "name": "1,2-dfB",
+    "smiles": "C1=CC=C(C(=C1)F)F"
+  },
+  {
+    "name": "1,3-dioxane",
+    "smiles": "C1COCOC1"
+  },
+  {
+    "name": "2-FP",
+    "smiles": "C1=CC=NC(=C1)F"
+  },
+  {
+    "name": "2FB",
+    "smiles": "Fc1ccccc1"
+  },
+  {
+    "name": "ADN",
+    "smiles": "C(#N)CCCCC#N"
+  },
+  {
+    "name": "ADN",
+    "smiles": "C(CCC#N)CC#N"
+  },
+  {
+    "name": "ADN",
+    "smiles": "[NH4+].[N-]([N+](=O)[O-])[N+](=O)[O-]"
+  },
+  {
+    "name": "AN",
+    "smiles": "CC#N"
+  },
+  {
+    "name": "An",
+    "smiles": "CC#N"
+  },
+  {
+    "name": "BL",
+    "smiles": "C1CC(=O)NC1"
+  },
+  {
+    "name": "BMC",
+    "smiles": "COCCOC(=O)OCCOC"
+  },
+  {
+    "name": "BN",
+    "smiles": "CCCC#N"
+  },
+  {
+    "name": "BTC",
+    "smiles": "C(=O)(OC(Cl)(Cl)Cl)OC(Cl)(Cl)Cl"
+  },
+  {
+    "name": "BTC",
+    "smiles": "C(C(F)(F)F)OC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "BTFE",
+    "smiles": "C(C(F)(F)F)OCC(F)(F)F"
+  },
+  {
+    "name": "BTFE",
+    "smiles": "FC(F)(F)OCC(OCC(F)(F)F)F"
+  },
+  {
+    "name": "Bn",
+    "smiles": "CCCC#N"
+  },
+  {
+    "name": "D2",
+    "smiles": "C(C(F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "DBE",
+    "smiles": "CCCCOCCCC"
+  },
+  {
+    "name": "DCM",
+    "smiles": "C(Cl)Cl"
+  },
+  {
+    "name": "DEC",
+    "smiles": "CC(=O)OC(=O)C"
+  },
+  {
+    "name": "DEC",
+    "smiles": "CCCOC(=O)OCC"
+  },
+  {
+    "name": "DEC",
+    "smiles": "CCOC(=O)OC(C)"
+  },
+  {
+    "name": "DEC",
+    "smiles": "CCOC(=O)OCC"
+  },
+  {
+    "name": "DEC",
+    "smiles": "CCOC(=O)OCCO"
+  },
+  {
+    "name": "DEC",
+    "smiles": "O=C(OCC)OCC"
+  },
+  {
+    "name": "DEE",
+    "smiles": "CCOC(C)OCC"
+  },
+  {
+    "name": "DEE",
+    "smiles": "CCOCC"
+  },
+  {
+    "name": "DEE",
+    "smiles": "CCOCCOCC"
+  },
+  {
+    "name": "DEE",
+    "smiles": "COCCOC"
+  },
+  {
+    "name": "DEGDME",
+    "smiles": "COCCOCCOC"
+  },
+  {
+    "name": "DES",
+    "smiles": "C1COS(=O)OCCOS(=O)O1"
+  },
+  {
+    "name": "DES",
+    "smiles": "CCOS(=O)OCC"
+  },
+  {
+    "name": "DFB",
+    "smiles": "C1=CC=C(C(=C1)F)F"
+  },
+  {
+    "name": "DFDEC",
+    "smiles": "C(C(F)(F)F)OC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "DFEC",
+    "smiles": "C1(C(OC(=O)O1)F)F"
+  },
+  {
+    "name": "DGDME",
+    "smiles": "COCCOCCOC"
+  },
+  {
+    "name": "DMAC",
+    "smiles": "CC(=O)N(C)C"
+  },
+  {
+    "name": "DMC",
+    "smiles": "C1C(OC(=O)O1)F"
+  },
+  {
+    "name": "DMC",
+    "smiles": "CCOC(=O)OC"
+  },
+  {
+    "name": "DMC",
+    "smiles": "COC(=O)O"
+  },
+  {
+    "name": "DMC",
+    "smiles": "COC(=O)OC"
+  },
+  {
+    "name": "DMC",
+    "smiles": "OC(=O)OC"
+  },
+  {
+    "name": "DMDOHD",
+    "smiles": "COC(=O)OCCOC(=O)OC"
+  },
+  {
+    "name": "DME",
+    "smiles": "COC(=O)OCC"
+  },
+  {
+    "name": "DME",
+    "smiles": "COCCOC"
+  },
+  {
+    "name": "DME",
+    "smiles": "OCCCO"
+  },
+  {
+    "name": "DMEP",
+    "smiles": "O=P(OCC)(OC)OC"
+  },
+  {
+    "name": "DMF",
+    "smiles": "CN(C)C=O"
+  },
+  {
+    "name": "DMFSA",
+    "smiles": "CN(S(=O)(=O)F)C"
+  },
+  {
+    "name": "DMM",
+    "smiles": "COCOC"
+  },
+  {
+    "name": "DMMP",
+    "smiles": "O=P(OC)(OC)C"
+  },
+  {
+    "name": "DMMS",
+    "smiles": "CO[Si](C)(C)OC"
+  },
+  {
+    "name": "DMOTFS",
+    "smiles": "CO[Si](C)(CCC(F)(F)F)OC"
+  },
+  {
+    "name": "DMS",
+    "smiles": "COS (=O) OC"
+  },
+  {
+    "name": "DMS",
+    "smiles": "COS(=O)OC"
+  },
+  {
+    "name": "DMSO",
+    "smiles": "CS(=O)C"
+  },
+  {
+    "name": "DMTMSA",
+    "smiles": "CN(C)S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "DOL",
+    "smiles": "C1COCO1"
+  },
+  {
+    "name": "DOL",
+    "smiles": "O1CCOC1"
+  },
+  {
+    "name": "DOL",
+    "smiles": "O=C1CO1"
+  },
+  {
+    "name": "DTDL",
+    "smiles": "COC1(OCC(O1)C(F)(F)F)OC"
+  },
+  {
+    "name": "DTF",
+    "smiles": "C(C(F)F)OS(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "DX",
+    "smiles": "C1COCCO1"
+  },
+  {
+    "name": "EA",
+    "smiles": "CC(=O)OCC"
+  },
+  {
+    "name": "EA",
+    "smiles": "CCOC(=O)C"
+  },
+  {
+    "name": "EA-f",
+    "smiles": "CC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "EB",
+    "smiles": "CCCC(=O)OCC"
+  },
+  {
+    "name": "EC",
+    "smiles": "C1COC(=O)O1"
+  },
+  {
+    "name": "EC",
+    "smiles": "CCOC(=O)OC"
+  },
+  {
+    "name": "EC",
+    "smiles": "O=C1OC(=O)O1"
+  },
+  {
+    "name": "EC",
+    "smiles": "O=C1OC1"
+  },
+  {
+    "name": "EC",
+    "smiles": "O=C1OCCO1"
+  },
+  {
+    "name": "EDFA",
+    "smiles": "CCOC(=O)C(F)F"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CC1COC(=O)O1"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CCOC (=O) OC"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CCOC(=O)OC"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CCOC(=O)OC(C)O"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CCOC(=O)OCC"
+  },
+  {
+    "name": "EMC",
+    "smiles": "CCOC(=O)OCF"
+  },
+  {
+    "name": "EMC",
+    "smiles": "COC(=O)OC"
+  },
+  {
+    "name": "EMC",
+    "smiles": "COC(=O)OC(C)O"
+  },
+  {
+    "name": "EMC",
+    "smiles": "COC(=O)OCC"
+  },
+  {
+    "name": "EMIMTFSI",
+    "smiles": "CCN1C=C[N+](=C1)C.C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "EP",
+    "smiles": "CCC(=O)OCC"
+  },
+  {
+    "name": "ES",
+    "smiles": "C1COS(=O)O1"
+  },
+  {
+    "name": "ETE",
+    "smiles": "CCOC(C(F)F)(F)F"
+  },
+  {
+    "name": "ETFA",
+    "smiles": "CCOC(=O)C(F)(F)F"
+  },
+  {
+    "name": "ETFB",
+    "smiles": "CCOC(=O)CCC(F)(F)F"
+  },
+  {
+    "name": "ETFEC",
+    "smiles": "CCOC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "EVS",
+    "smiles": "CCS(=O)(=O)C=C"
+  },
+  {
+    "name": "F-EPE",
+    "smiles": "C(C(C(F)F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "F-EPE",
+    "smiles": "C(F)(F)C(F)(F)COC(F)(F)C(F)F"
+  },
+  {
+    "name": "FAN",
+    "smiles": "C(C#N)F"
+  },
+  {
+    "name": "FB",
+    "smiles": "C1=CC=C(C=C1)F"
+  },
+  {
+    "name": "FB",
+    "smiles": "CC1=CC=CC=C1F"
+  },
+  {
+    "name": "FDEC",
+    "smiles": "C(C(F)(F)F)OC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "FDMA",
+    "smiles": "CN(C)C(=O)C(F)(F)F"
+  },
+  {
+    "name": "FE1",
+    "smiles": "C(F)(F)C(F)(F)COC(F)(F)C(F)F"
+  },
+  {
+    "name": "FEC",
+    "smiles": "C1C(OC(=O)O1)F"
+  },
+  {
+    "name": "FEC",
+    "smiles": "COC(=O)OC"
+  },
+  {
+    "name": "FEC",
+    "smiles": "O=C1OC(=O)C1F"
+  },
+  {
+    "name": "FEC",
+    "smiles": "O=C1OCC(O1)F"
+  },
+  {
+    "name": "FEMC",
+    "smiles": "COC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "FEON",
+    "smiles": "O=C1N(CCF)CCO1"
+  },
+  {
+    "name": "FEPE",
+    "smiles": "FCCOCCC"
+  },
+  {
+    "name": "FMES",
+    "smiles": "C1=CC=C(C=C1)S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "FMS",
+    "smiles": "CO[Si](C)(CCC(F)(F)F)OC"
+  },
+  {
+    "name": "FPPN",
+    "smiles": "C1=CC=C(C=C1)OP2(=NP(=NP(=N2)(F)F)(F)F)F"
+  },
+  {
+    "name": "FSA",
+    "smiles": "CN(C)S(=O)(=O)F"
+  },
+  {
+    "name": "G1-CN",
+    "smiles": "CNCCCOC(O)C"
+  },
+  {
+    "name": "G2",
+    "smiles": "COCCOCCOC"
+  },
+  {
+    "name": "G2E",
+    "smiles": "CCOCCOCCOCC"
+  },
+  {
+    "name": "GBL",
+    "smiles": "C1CC(=O)OC1"
+  },
+  {
+    "name": "GBL",
+    "smiles": "O=C1CCC1"
+  },
+  {
+    "name": "GBL",
+    "smiles": "O=C1OCCC1"
+  },
+  {
+    "name": "GN",
+    "smiles": "C(CC#N)CC#N"
+  },
+  {
+    "name": "H2O",
+    "smiles": "O"
+  },
+  {
+    "name": "HDI",
+    "smiles": "C(CCCN=C=O)CCN=C=O"
+  },
+  {
+    "name": "HFB",
+    "smiles": "C1(=C(C(=C(C(=C1F)F)F)F)F)F"
+  },
+  {
+    "name": "HFE",
+    "smiles": "C(C(C(C(C(F)F)(F)F)(F)F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "HFE",
+    "smiles": "C(C(C(F)F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "HFE",
+    "smiles": "C(C(F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "HFE-347",
+    "smiles": "FC(C(F)F)(OCC(F)(F)F)F"
+  },
+  {
+    "name": "HM",
+    "smiles": "COC(C(C(F)(F)F)(F)F)(F)F"
+  },
+  {
+    "name": "HTE",
+    "smiles": "C(C(F)(F)F)OC(C(C(F)(F)F)F)(F)F"
+  },
+  {
+    "name": "IF",
+    "smiles": "CC(C)COC=O"
+  },
+  {
+    "name": "IZ",
+    "smiles": "C1=CON=C1"
+  },
+  {
+    "name": "MA",
+    "smiles": "CC(=O)OC"
+  },
+  {
+    "name": "MB",
+    "smiles": "CCCC(=O)OC"
+  },
+  {
+    "name": "MDFA",
+    "smiles": "COC(=O)C(F)F"
+  },
+  {
+    "name": "MDFSA",
+    "smiles": "COC(=O)C(F)(F)S(=O)(=O)F"
+  },
+  {
+    "name": "MFE",
+    "smiles": "COC(C(C(C(F)(F)F)(F)F)(F)F)(F)F"
+  },
+  {
+    "name": "MGN",
+    "smiles": "CC(CCC#N)C#N"
+  },
+  {
+    "name": "MP",
+    "smiles": "CCC(=O)OC"
+  },
+  {
+    "name": "MP",
+    "smiles": "CCCOC(=O)C"
+  },
+  {
+    "name": "MPE",
+    "smiles": "CCCOC"
+  },
+  {
+    "name": "MTFA",
+    "smiles": "COC(=O)C(F)(F)F"
+  },
+  {
+    "name": "MTFP",
+    "smiles": "COC(=O)CC(F)(F)F"
+  },
+  {
+    "name": "NFS",
+    "smiles": "CNS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F"
+  },
+  {
+    "name": "NMTFA",
+    "smiles": "CNC(=O)C(F)(F)F"
+  },
+  {
+    "name": "PC",
+    "smiles": "CC1COC(=O)O1"
+  },
+  {
+    "name": "PC",
+    "smiles": "C[C@@H]1COC(=O)O1"
+  },
+  {
+    "name": "PC",
+    "smiles": "O1C(=O)OCC1C"
+  },
+  {
+    "name": "PC",
+    "smiles": "O=C1OC(C)C1"
+  },
+  {
+    "name": "PC",
+    "smiles": "O=C1OC(C)CO1"
+  },
+  {
+    "name": "PC",
+    "smiles": "O=C1OCCO1"
+  },
+  {
+    "name": "PFPN",
+    "smiles": "CCOP1(=NP(=NP(=N1)(F)F)(F)F)F"
+  },
+  {
+    "name": "PN",
+    "smiles": "CCC#N"
+  },
+  {
+    "name": "PP",
+    "smiles": "CCCOC(=O)CC"
+  },
+  {
+    "name": "PP13TFSI",
+    "smiles": "CCC[N+]1(CCCCC1)C.[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "PS",
+    "smiles": "C1COS(=O)(=O)C1"
+  },
+  {
+    "name": "PYR1,4-TFSI",
+    "smiles": "CCCC[N+]1(CCCC1)C.C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "Pn",
+    "smiles": "CCC#N"
+  },
+  {
+    "name": "SFE",
+    "smiles": "FC(F)(F)OC(C(F)(F)F)F"
+  },
+  {
+    "name": "SL",
+    "smiles": "C1CCS(=O)(=O)C1"
+  },
+  {
+    "name": "SL",
+    "smiles": "C1CCS(=O)C1"
+  },
+  {
+    "name": "SL",
+    "smiles": "O=S1(=O)CCCC1"
+  },
+  {
+    "name": "SN",
+    "smiles": "C(CC#N)C#N"
+  },
+  {
+    "name": "SN",
+    "smiles": "COCCOC"
+  },
+  {
+    "name": "TEOS",
+    "smiles": "CCO[Si](OCC)(OCC)OCC"
+  },
+  {
+    "name": "TEOSCN",
+    "smiles": "CCO[Si](CCC#N)(OCC)OCC"
+  },
+  {
+    "name": "TEP",
+    "smiles": "CCOP(=O)(OCC)OCC"
+  },
+  {
+    "name": "TEP",
+    "smiles": "O=P(OCC)(OCC)OCC"
+  },
+  {
+    "name": "TFA",
+    "smiles": "CC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "TFB",
+    "smiles": "C1=C(C=C(C=C1F)F)F"
+  },
+  {
+    "name": "TFEC",
+    "smiles": "C(C(F)(F)F)OC(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "TFEE",
+    "smiles": "C(COC(C(F)F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "TFEM",
+    "smiles": "CS(=O)(=O)OCC(F)(F)F"
+  },
+  {
+    "name": "TFEP",
+    "smiles": "C(C(F)(F)F)OP(=O)(OCC(F)(F)F)OCC(F)(F)F"
+  },
+  {
+    "name": "TFPC",
+    "smiles": "C1C(OC(=O)O1)C(F)(F)F"
+  },
+  {
+    "name": "TFPC",
+    "smiles": "C1CCC2=NCCCN2CC1"
+  },
+  {
+    "name": "TFPMS",
+    "smiles": "C(C(C(F)F)(F)F)OC(F)(F)F"
+  },
+  {
+    "name": "THF",
+    "smiles": "O1CCCC1"
+  },
+  {
+    "name": "THP",
+    "smiles": "C1CCOCC1"
+  },
+  {
+    "name": "THT1oxide",
+    "smiles": "O=S1CCCC1"
+  },
+  {
+    "name": "TMP",
+    "smiles": "COP(=O)(OC)OC"
+  },
+  {
+    "name": "TMPa",
+    "smiles": "CCOP(=O)(OCC)OCC"
+  },
+  {
+    "name": "TMS",
+    "smiles": "C1CCS(=O)(=O)C1"
+  },
+  {
+    "name": "TOL",
+    "smiles": "CC1=CC=CC=C1"
+  },
+  {
+    "name": "TTE",
+    "smiles": "C(C(C(F)F)(F)F)OC(C(F)F)(F)F"
+  },
+  {
+    "name": "VC",
+    "smiles": "C1=COC(=O)O1"
+  },
+  {
+    "name": "VC",
+    "smiles": "O=C1OC(C)=C1"
+  },
+  {
+    "name": "VN",
+    "smiles": "CCCCC#N"
+  },
+  {
+    "name": "[MEMP][TFSI]IL",
+    "smiles": "CC[N+]1(CCOCCO1)C.[N-](S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F"
+  },
+  {
+    "name": "butyronitrile",
+    "smiles": "CCCC#N"
+  },
+  {
+    "name": "glutaronitrile",
+    "smiles": "C(CC#N)CC#N"
+  },
+  {
+    "name": "iBA",
+    "smiles": "C1=CC=C2C(=C1)C(=CN2)CCCC(=O)O"
+  },
+  {
+    "name": "iBN",
+    "smiles": "CC(C)C#N"
+  },
+  {
+    "name": "isoBN",
+    "smiles": "CC(C)C#N"
+  }
+]

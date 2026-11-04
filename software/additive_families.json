@@ -1,0 +1,60 @@
+{
+  "SEI_carbonate": [
+    "FEC", "DFEC", "VC", "VEC",
+    "EBC", "TAEC", "DiFEC"
+  ],
+
+  "boron_SEI": [
+    "LiDFOB", "LiODFB", "LiBOB",
+    "LiBMFMB",
+    "LiDFMFMB", "LiDFEFMB", "LiDFPFMB"
+  ],
+
+  "phosphate_additive": [
+    "TPP", "TPPO", "TEP", "TMP"
+  ],
+
+  "fluoroester_additive": [
+    "TFPA"
+  ],
+
+  "anion_receptor": [
+    "TFPBA", "TPFPB"
+  ],
+
+  "sulfur_additive": [
+    "DTD", "DTDS", "DTDL",
+    "PS", "PES", "ES", "EVS",
+    "BDTD", "MDTD"
+  ],
+
+  "nitrile_stabilizer": [
+    "AN", "ADN", "CAn", "SAn"
+  ],
+
+  "phosphazene": [
+    "FPPN", "PFPN"
+  ],
+
+  "ionic_liquid_additive": [
+    "EMI-BF4", "[Vmim1O2][TFSI]"
+  ],
+
+  "metal_salt_additive": [
+    "AgNO3", "CsPF6", "KPF6",
+    "Mg(TFSI)2", "Mg(ClO4)2"
+  ],
+
+  "radical_scavenger": [
+    "AIBN", "DBU", "Quercetin"
+  ],
+
+  "silicon_additive": [
+    "TMS", "TMSP", "TMSPi",
+    "TMSPO", "TMSB", "TMSML"
+  ],
+
+  "inorganic_special": [
+    "H2O", "Li2O2", "Li2S"
+  ]
+}

@@ -1,0 +1,50 @@
+; RUN CONTROL
+integrator               = md        ; molecular dynamics (MD) integrator
+dt                       = 0.001     ; time step (ps)
+nsteps                   = 100000   ; 100 ps
+comm-mode                = Linear    ; remove linear momentum
+
+; OUTPUT CONTROL
+nstxout                  = 0         ; do not write full coordinate trajectory
+nstvout                  = 0         ; do not write velocities
+nstfout                  = 0         ; do not write forces
+nstlog                   = 1000      ; write log every 2 ps
+nstenergy                = 1000      ; write energy every 2 ps
+nstxout-compressed       = 500      ; write compressed trajectory (xtc) every 10 ps
+
+; NEIGHBOR SEARCHING
+cutoff-scheme            = Verlet    ; Verlet cutoff scheme
+ns_type                  = grid      ; grid search
+nstlist                  = 20        ; update neighbor list every 20 steps
+pbc                      = xyz       ; 3D periodic boundary conditions
+
+; ELECTROSTATICS (IMPORTANT FOR ELECTROLYTE)
+coulombtype              = PME       ; Particle Mesh Ewald
+rcoulomb                 = 1.2       ; electrostatic cutoff (nm)
+fourierspacing           = 0.12      ; PME grid spacing
+pme_order                = 4         ; spline interpolation order
+
+; VAN DER WAALS
+vdwtype                  = Cut-off
+vdw-modifier             = Potential-shift-verlet ; potential shift
+rvdw                     = 1.2       ; vdW cutoff (nm)
+
+; TEMPERATURE COUPLING (NVT)
+tcoupl                   = v-rescale ; velocity rescaling (recommended for electrolytes)
+tc-grps                  = System    ; couple the whole system
+tau_t                    = 0.1       ; coupling time constant (ps)
+ref_t                    = 298.15    ; 298.15 K (25 C)
+
+; PRESSURE COUPLING (DISABLED FOR NVT)
+pcoupl                   = no        ; no pressure coupling for NVT
+
+; CONSTRAINTS
+constraints              = h-bonds   ; constrain all H-bonds
+constraint_algorithm     = LINCS     ; recommended for electrolytes
+lincs_iter               = 1         ; number of LINCS iterations
+lincs_order              = 4         ; interpolation order
+
+; VELOCITY GENERATION
+gen_vel                  = yes       ; initialize random velocities
+gen_temp                 = 298.15    ; initial temperature (K)
+gen_seed                 = -1        ; random seed (time-based)

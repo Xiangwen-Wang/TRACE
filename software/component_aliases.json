@@ -1,0 +1,77 @@
+{
+  "EC": [
+    "ethylene carbonate"
+  ],
+  "DMC": [
+    "dimethyl carbonate"
+  ],
+  "EMC": [
+    "ethyl methyl carbonate",
+    "ethylmethyl carbonate",
+    "ethylene methyl carbonate"
+  ],
+  "DEC": [
+    "diethyl carbonate"
+  ],
+  "PC": [
+    "propylene carbonate"
+  ],
+  "FEC": [
+    "fluoroethylene carbonate"
+  ],
+  "VC": [
+    "vinylene carbonate"
+  ],
+  "VEC": [
+    "vinyl ethylene carbonate"
+  ],
+  "TEP": [
+    "triethyl phosphate"
+  ],
+  "SL": [
+    "sulfolane"
+  ],
+  "SN": [
+    "succinonitrile"
+  ],
+  "ADN": [
+    "adiponitrile"
+  ],
+  "AN": [
+    "acetonitrile"
+  ],
+  "THP": [
+    "tetrahydropyran"
+  ],
+  "MP": [
+    "methyl propionate"
+  ],
+  "EA": [
+    "ethyl acetate"
+  ],
+  "DEE": [
+    "diethyl ether"
+  ],
+  "DME": [
+    "1,2-dimethoxyethane"
+  ],
+  "DOL": [
+    "1,3-dioxolane"
+  ],
+  "DX": [
+    "1,4-dioxane"
+  ],
+  "FB": [
+    "fluorobenzene"
+  ],
+  "VN": [
+    "valeronitrile"
+  ],
+  "BL": [
+    "butyrolactam",
+    "butyrolactone"
+  ],
+  "H2O": [
+    "water"
+  ]
+}

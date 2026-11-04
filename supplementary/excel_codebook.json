@@ -1,0 +1,4921 @@
+[
+  {
+    "raw_ref": {
+      "title": "lit_0001"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0002"
+    },
+    "entities": {
+      "additives": [
+        "TMSILN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0003"
+    },
+    "entities": {
+      "additives": [
+        "DOTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0004"
+    },
+    "entities": {
+      "additives": [
+        "MMDS",
+        "NMDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0006"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0007"
+    },
+    "entities": {
+      "additives": [
+        "NOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0008"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0009"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "PCS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0010"
+    },
+    "entities": {
+      "additives": [
+        "LiDFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0012"
+    },
+    "entities": {
+      "additives": [
+        "TCEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0013"
+    },
+    "entities": {
+      "additives": [
+        "3FB",
+        "FB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0014"
+    },
+    "entities": {
+      "additives": [
+        "ADN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0015"
+    },
+    "entities": {
+      "additives": [
+        "PPDI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0016"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0019"
+    },
+    "entities": {
+      "additives": [
+        "TMSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0020"
+    },
+    "entities": {
+      "additives": [
+        "LiClO4",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0021"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiDFOB",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0022"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0023"
+    },
+    "entities": {
+      "additives": [
+        "DEATMS",
+        "LPTB",
+        "LiBOB",
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0024"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0025"
+    },
+    "entities": {
+      "additives": [
+        "TT"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0026"
+    },
+    "entities": {
+      "additives": [
+        "DMBAP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0027"
+    },
+    "entities": {
+      "additives": [
+        "TEAN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0028"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "PFPA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0029"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0031"
+    },
+    "entities": {
+      "additives": [
+        "LiOTF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0032"
+    },
+    "entities": {
+      "additives": [
+        "PDITC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0034"
+    },
+    "entities": {
+      "additives": [
+        "EVFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0035"
+    },
+    "entities": {
+      "additives": [
+        "TUC",
+        "UC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0036"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0037"
+    },
+    "entities": {
+      "additives": [
+        "2-TPBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0038"
+    },
+    "entities": {
+      "additives": [
+        "Di-(CF3)-EC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0039"
+    },
+    "entities": {
+      "additives": [
+        "DES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0040"
+    },
+    "entities": {
+      "additives": [
+        "3HT"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0041"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0044"
+    },
+    "entities": {
+      "additives": [
+        "3-TBL",
+        "LiODFB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0047"
+    },
+    "entities": {
+      "additives": [
+        "HCBD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0048"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "TMSPi",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0050"
+    },
+    "entities": {
+      "additives": [
+        "PBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0051"
+    },
+    "entities": {
+      "additives": [
+        "TFPE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0052"
+    },
+    "entities": {
+      "additives": [
+        "LiDFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0053"
+    },
+    "entities": {
+      "additives": [
+        "HFPTf"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0054"
+    },
+    "entities": {
+      "additives": [
+        "TBPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0055"
+    },
+    "entities": {
+      "additives": [
+        "4-ABA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0056"
+    },
+    "entities": {
+      "additives": [
+        "FPSAN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0057"
+    },
+    "entities": {
+      "additives": [
+        "HBAG"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0059"
+    },
+    "entities": {
+      "additives": [
+        "4-TB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0060"
+    },
+    "entities": {
+      "additives": [
+        "TMSML"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0061"
+    },
+    "entities": {
+      "additives": [
+        "DPA",
+        "FE1",
+        "HDI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0062"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0063"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0065"
+    },
+    "entities": {
+      "additives": [
+        "TB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0066"
+    },
+    "entities": {
+      "additives": [
+        "GT"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0068"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3",
+        "Mg(TFSI)2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0069"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0070"
+    },
+    "entities": {
+      "additives": [
+        "EPCP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0072"
+    },
+    "entities": {
+      "additives": [
+        "LTBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0073"
+    },
+    "entities": {
+      "additives": [
+        "EITC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0074"
+    },
+    "entities": {
+      "additives": [
+        "TAEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0077"
+    },
+    "entities": {
+      "additives": [
+        "4-FBC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0078"
+    },
+    "entities": {
+      "additives": [
+        "LiBMFMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0079"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0080"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0081"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0083"
+    },
+    "entities": {
+      "additives": [
+        "BDTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0084"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0085"
+    },
+    "entities": {
+      "additives": [
+        "PS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0086"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiPO2F2",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0087"
+    },
+    "entities": {
+      "additives": [
+        "Li2ZrF6"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0088"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0090"
+    },
+    "entities": {
+      "additives": [
+        "IPTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0091"
+    },
+    "entities": {
+      "additives": [
+        "FPPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0092"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3",
+        "TPFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0093"
+    },
+    "entities": {
+      "additives": [
+        "PTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0094"
+    },
+    "entities": {
+      "additives": [
+        "PFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0095"
+    },
+    "entities": {
+      "additives": [
+        "SDM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0096"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0098"
+    },
+    "entities": {
+      "additives": [
+        "DTDS",
+        "LiDFBOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0099"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0101"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "HTCN",
+        "TPPSE",
+        "TPPSe"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0102"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0103"
+    },
+    "entities": {
+      "additives": [
+        "ADN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0104"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0105"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0109"
+    },
+    "entities": {
+      "additives": [
+        "DMAA",
+        "DMTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0111"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0112"
+    },
+    "entities": {
+      "additives": [
+        "EMP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0113"
+    },
+    "entities": {
+      "additives": [
+        "APTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0114"
+    },
+    "entities": {
+      "additives": [
+        "ADM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0115"
+    },
+    "entities": {
+      "additives": [
+        "SN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0116"
+    },
+    "entities": {
+      "additives": [
+        "BFBN",
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0117"
+    },
+    "entities": {
+      "additives": [
+        "PFPBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0119"
+    },
+    "entities": {
+      "additives": [
+        "DPE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0120"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0121"
+    },
+    "entities": {
+      "additives": [
+        "BA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0124"
+    },
+    "entities": {
+      "additives": [
+        "EVS",
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0125"
+    },
+    "entities": {
+      "additives": [
+        "DME",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0126"
+    },
+    "entities": {
+      "additives": [
+        "DCEE",
+        "DTD",
+        "FEC",
+        "LiPO2F2",
+        "PS",
+        "TCEP",
+        "TCEPE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0127"
+    },
+    "entities": {
+      "additives": [
+        "TCEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0128"
+    },
+    "entities": {
+      "additives": [
+        "BNGDB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0129"
+    },
+    "entities": {
+      "additives": [
+        "BTMSEFM",
+        "BTMSMFM",
+        "BTMSPFM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0131"
+    },
+    "entities": {
+      "additives": [
+        "TPCB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0132"
+    },
+    "entities": {
+      "additives": [
+        "ADN",
+        "HTN",
+        "MBS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0133"
+    },
+    "entities": {
+      "additives": [
+        "PMBPDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0134"
+    },
+    "entities": {
+      "additives": [
+        "TPFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0136"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0142"
+    },
+    "entities": {
+      "additives": [
+        "LiClO4"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0143"
+    },
+    "entities": {
+      "additives": [
+        "BBSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0144"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "TFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0145"
+    },
+    "entities": {
+      "additives": [
+        "NPA",
+        "PA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0146"
+    },
+    "entities": {
+      "additives": [
+        "PFBE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0147"
+    },
+    "entities": {
+      "additives": [
+        "LiOTFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0148"
+    },
+    "entities": {
+      "additives": [
+        "PMA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0149"
+    },
+    "entities": {
+      "additives": [
+        "CTFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0150"
+    },
+    "entities": {
+      "additives": [
+        "KBF4",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0151"
+    },
+    "entities": {
+      "additives": [
+        "EMS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0153"
+    },
+    "entities": {
+      "additives": [
+        "PFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0155"
+    },
+    "entities": {
+      "additives": [
+        "4TP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0157"
+    },
+    "entities": {
+      "additives": [
+        "AEDB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0158"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0161"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0162"
+    },
+    "entities": {
+      "additives": [
+        "PyDMA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0163"
+    },
+    "entities": {
+      "additives": [
+        "LBTB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0164"
+    },
+    "entities": {
+      "additives": [
+        "LiTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0165"
+    },
+    "entities": {
+      "additives": [
+        "LiFEA",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0166"
+    },
+    "entities": {
+      "additives": [
+        "BCPN",
+        "HMPP",
+        "PETEA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0167"
+    },
+    "entities": {
+      "additives": [
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0168"
+    },
+    "entities": {
+      "additives": [
+        "MSTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0169"
+    },
+    "entities": {
+      "additives": [
+        "DEPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0170"
+    },
+    "entities": {
+      "additives": [
+        "DTYP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0173"
+    },
+    "entities": {
+      "additives": [
+        "DMTMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0174"
+    },
+    "entities": {
+      "additives": [
+        "DPDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0176"
+    },
+    "entities": {
+      "additives": [
+        "CBB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0177"
+    },
+    "entities": {
+      "additives": [
+        "dopamine hydrochloride"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0178"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0179"
+    },
+    "entities": {
+      "additives": [
+        "TMEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0180"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3",
+        "LiTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0181"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0182"
+    },
+    "entities": {
+      "additives": [
+        "TTE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0183"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiDFOB",
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0184"
+    },
+    "entities": {
+      "additives": [
+        "LiBF4",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0185"
+    },
+    "entities": {
+      "additives": [
+        "ITD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0187"
+    },
+    "entities": {
+      "additives": [
+        "ADN",
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0188"
+    },
+    "entities": {
+      "additives": [
+        "KBF4",
+        "KiBF4",
+        "LiBF4"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0189"
+    },
+    "entities": {
+      "additives": [
+        "Li3PO4",
+        "LiH2PO4",
+        "LiPO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0190"
+    },
+    "entities": {
+      "additives": [
+        "ES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0191"
+    },
+    "entities": {
+      "additives": [
+        "HI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0193"
+    },
+    "entities": {
+      "additives": [
+        "3FA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0194"
+    },
+    "entities": {
+      "additives": [
+        "Pip13DFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0195"
+    },
+    "entities": {
+      "additives": [
+        "CuF2",
+        "FEC",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0196"
+    },
+    "entities": {
+      "additives": [
+        "TBB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0197"
+    },
+    "entities": {
+      "additives": [
+        "PTSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0198"
+    },
+    "entities": {
+      "additives": [
+        "F-MI",
+        "O-MI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0201"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0204"
+    },
+    "entities": {
+      "additives": [
+        "AN",
+        "PVS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0208"
+    },
+    "entities": {
+      "additives": [
+        "LiBnHA",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0209"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0211"
+    },
+    "entities": {
+      "additives": [
+        "DMMA",
+        "FEC",
+        "HTCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0212"
+    },
+    "entities": {
+      "additives": [
+        "TTFEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0215"
+    },
+    "entities": {
+      "additives": [
+        "TTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0216"
+    },
+    "entities": {
+      "additives": [
+        "LiF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0219"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0220"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0221"
+    },
+    "entities": {
+      "additives": [
+        "LiFSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0222"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0223"
+    },
+    "entities": {
+      "additives": [
+        "BEPN",
+        "PFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0224"
+    },
+    "entities": {
+      "additives": [
+        "TCEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0225"
+    },
+    "entities": {
+      "additives": [
+        "BA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0227"
+    },
+    "entities": {
+      "additives": [
+        "BP",
+        "FBP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0228"
+    },
+    "entities": {
+      "additives": [
+        "BS",
+        "PES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0230"
+    },
+    "entities": {
+      "additives": [
+        "PFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0231"
+    },
+    "entities": {
+      "additives": [
+        "EFEEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0232"
+    },
+    "entities": {
+      "additives": [
+        "EBP",
+        "TAPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0233"
+    },
+    "entities": {
+      "additives": [
+        "ES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0234"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "PFPN",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0236"
+    },
+    "entities": {
+      "additives": [
+        "EEP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0237"
+    },
+    "entities": {
+      "additives": [
+        "DTFES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0238"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0239"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "THFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0240"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0241"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0242"
+    },
+    "entities": {
+      "additives": [
+        "BTFEP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0243"
+    },
+    "entities": {
+      "additives": [
+        "PCS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0244"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0247"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0248"
+    },
+    "entities": {
+      "additives": [
+        "HFEPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0249"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0250"
+    },
+    "entities": {
+      "additives": [
+        "MFC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0252"
+    },
+    "entities": {
+      "additives": [
+        "PFN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0255"
+    },
+    "entities": {
+      "additives": [
+        "TPFPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0256"
+    },
+    "entities": {
+      "additives": [
+        "3-FP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0257"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "HDI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0259"
+    },
+    "entities": {
+      "additives": [
+        "LiCO2CF3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0260"
+    },
+    "entities": {
+      "additives": [
+        "LiHFDF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0261"
+    },
+    "entities": {
+      "additives": [
+        "GTCE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0265"
+    },
+    "entities": {
+      "additives": [
+        "HBCHHI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0267"
+    },
+    "entities": {
+      "additives": [
+        "DPD - F",
+        "DPD-F"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0269"
+    },
+    "entities": {
+      "additives": [
+        "PFPN",
+        "TMP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0270"
+    },
+    "entities": {
+      "additives": [
+        "3SF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0272"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "TBT"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0273"
+    },
+    "entities": {
+      "additives": [
+        "TPPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0275"
+    },
+    "entities": {
+      "additives": [
+        "MMDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0277"
+    },
+    "entities": {
+      "additives": [
+        "DMSM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0278"
+    },
+    "entities": {
+      "additives": [
+        "MDO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0280"
+    },
+    "entities": {
+      "additives": [
+        "LiFSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0281"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBOP",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0282"
+    },
+    "entities": {
+      "additives": [
+        "DMPATMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0283"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "PDO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0284"
+    },
+    "entities": {
+      "additives": [
+        "TEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0285"
+    },
+    "entities": {
+      "additives": [
+        "PFPOEPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0286"
+    },
+    "entities": {
+      "additives": [
+        "FEP",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0287"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0288"
+    },
+    "entities": {
+      "additives": [
+        "TEB",
+        "TMSB",
+        "TTFEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0290"
+    },
+    "entities": {
+      "additives": [
+        "BMI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0291"
+    },
+    "entities": {
+      "additives": [
+        "TPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0292"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0294"
+    },
+    "entities": {
+      "additives": [
+        "PES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0295"
+    },
+    "entities": {
+      "additives": [
+        "curcumin"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0296"
+    },
+    "entities": {
+      "additives": [
+        "VEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0297"
+    },
+    "entities": {
+      "additives": [
+        "MMD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0298"
+    },
+    "entities": {
+      "additives": [
+        "TCEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0299"
+    },
+    "entities": {
+      "additives": [
+        "MUI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0300"
+    },
+    "entities": {
+      "additives": [
+        "DDDT"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0301"
+    },
+    "entities": {
+      "additives": [
+        "HTCN",
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0302"
+    },
+    "entities": {
+      "additives": [
+        "PA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0303"
+    },
+    "entities": {
+      "additives": [
+        "BMP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0304"
+    },
+    "entities": {
+      "additives": [
+        "ATCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0305"
+    },
+    "entities": {
+      "additives": [
+        "LiDFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0307"
+    },
+    "entities": {
+      "additives": [
+        "LiBF2(C2O4)",
+        "LiBOB",
+        "TMTi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0308"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0310"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0312"
+    },
+    "entities": {
+      "additives": [
+        "FNB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0314"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0315"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0316"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0317"
+    },
+    "entities": {
+      "additives": [
+        "IAn"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0318"
+    },
+    "entities": {
+      "additives": [
+        "IMA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0320"
+    },
+    "entities": {
+      "additives": [
+        "HFM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0321"
+    },
+    "entities": {
+      "additives": [
+        "LCTFEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0322"
+    },
+    "entities": {
+      "additives": [
+        "LiDFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0326"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0327"
+    },
+    "entities": {
+      "additives": [
+        "LiBODFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0328"
+    },
+    "entities": {
+      "additives": [
+        "BFS",
+        "DPS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0329"
+    },
+    "entities": {
+      "additives": [
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0330"
+    },
+    "entities": {
+      "additives": [
+        "H2O",
+        "LiHMDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0331"
+    },
+    "entities": {
+      "additives": [
+        "LiDFEFMB",
+        "LiDFMFMB",
+        "LiDFPFMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0332"
+    },
+    "entities": {
+      "additives": [
+        "PEDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0333"
+    },
+    "entities": {
+      "additives": [
+        "AIBN",
+        "MBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0335"
+    },
+    "entities": {
+      "additives": [
+        "CTAC",
+        "FEC",
+        "TPFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0337"
+    },
+    "entities": {
+      "additives": [
+        "FPy"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0340"
+    },
+    "entities": {
+      "additives": [
+        "MA",
+        "PFPN",
+        "SA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0342"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0343"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0347"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0349"
+    },
+    "entities": {
+      "additives": [
+        "MDFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0353"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "N2FC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0355"
+    },
+    "entities": {
+      "additives": [
+        "DTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0357"
+    },
+    "entities": {
+      "additives": [
+        "MPS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0362"
+    },
+    "entities": {
+      "additives": [
+        "LiDOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0363"
+    },
+    "entities": {
+      "additives": [
+        "BTA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0374"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0375"
+    },
+    "entities": {
+      "additives": [
+        "NFSA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0376"
+    },
+    "entities": {
+      "additives": [
+        "CNFE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0377"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0378"
+    },
+    "entities": {
+      "additives": [
+        "HTCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0379"
+    },
+    "entities": {
+      "additives": [
+        "TEDBPDP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0380"
+    },
+    "entities": {
+      "additives": [
+        "BA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0381"
+    },
+    "entities": {
+      "additives": [
+        "Li2TB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0382"
+    },
+    "entities": {
+      "additives": [
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0383"
+    },
+    "entities": {
+      "additives": [
+        "FB",
+        "TFB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0384"
+    },
+    "entities": {
+      "additives": [
+        "FPOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0385"
+    },
+    "entities": {
+      "additives": [
+        "C5F5N",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0386"
+    },
+    "entities": {
+      "additives": [
+        "BZTF",
+        "PFM"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0388"
+    },
+    "entities": {
+      "additives": [
+        "TBP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0389"
+    },
+    "entities": {
+      "additives": [
+        "PACA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0390"
+    },
+    "entities": {
+      "additives": [
+        "DETSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0395"
+    },
+    "entities": {
+      "additives": [
+        "PES",
+        "PFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0396"
+    },
+    "entities": {
+      "additives": [
+        "PCS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0397"
+    },
+    "entities": {
+      "additives": [
+        "pTSF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0403"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0404"
+    },
+    "entities": {
+      "additives": [
+        "PTB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0405"
+    },
+    "entities": {
+      "additives": [
+        "FS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0406"
+    },
+    "entities": {
+      "additives": [
+        "RbF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0409"
+    },
+    "entities": {
+      "additives": [
+        "[Vmim1O2][TFSI]"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0412"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "SN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0414"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0416"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0423"
+    },
+    "entities": {
+      "additives": [
+        "IL–NO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0425"
+    },
+    "entities": {
+      "additives": [
+        "TTE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0426"
+    },
+    "entities": {
+      "additives": [
+        "2-TFMBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0429"
+    },
+    "entities": {
+      "additives": [
+        "TTSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0430"
+    },
+    "entities": {
+      "additives": [
+        "BTMSC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0435"
+    },
+    "entities": {
+      "additives": [
+        "THFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0436"
+    },
+    "entities": {
+      "additives": [
+        "TOSMIC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0437"
+    },
+    "entities": {
+      "additives": [
+        "TPFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0441"
+    },
+    "entities": {
+      "additives": [
+        "TFANP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0443"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "HTCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0447"
+    },
+    "entities": {
+      "additives": [
+        "SN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0448"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "MMDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0449"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "TMSPa"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0450"
+    },
+    "entities": {
+      "additives": [
+        "2-TP",
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0454"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBP",
+        "LiDFP",
+        "LiFSI",
+        "LiODFB",
+        "LiTFA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0455"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "SUN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0457"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0458"
+    },
+    "entities": {
+      "additives": [
+        "TMSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0459"
+    },
+    "entities": {
+      "additives": [
+        "TFEC",
+        "TTSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0460"
+    },
+    "entities": {
+      "additives": [
+        "BDTT",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0461"
+    },
+    "entities": {
+      "additives": [
+        "BSTFA",
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0462"
+    },
+    "entities": {
+      "additives": [
+        "KSeCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0463"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "TMB",
+        "TMS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0465"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0468"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "TFEC",
+        "TTSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0470"
+    },
+    "entities": {
+      "additives": [
+        "TTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0471"
+    },
+    "entities": {
+      "additives": [
+        "TFTPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0474"
+    },
+    "entities": {
+      "additives": [
+        "Zn(Otf)₂"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0477"
+    },
+    "entities": {
+      "additives": [
+        "AIBN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0478"
+    },
+    "entities": {
+      "additives": [
+        "2TH",
+        "3TH",
+        "TH"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0479"
+    },
+    "entities": {
+      "additives": [
+        "ADN",
+        "CHB",
+        "THFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0480"
+    },
+    "entities": {
+      "additives": [
+        "TPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0482"
+    },
+    "entities": {
+      "additives": [
+        "ADN",
+        "FEC",
+        "TAIC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0483"
+    },
+    "entities": {
+      "additives": [
+        "TBB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0484"
+    },
+    "entities": {
+      "additives": [
+        "TEB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0485"
+    },
+    "entities": {
+      "additives": [
+        "TIB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0486"
+    },
+    "entities": {
+      "additives": [
+        "TMOBX"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0487"
+    },
+    "entities": {
+      "additives": [
+        "TMB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0488"
+    },
+    "entities": {
+      "additives": [
+        "TMP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0490"
+    },
+    "entities": {
+      "additives": [
+        "TPPO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0491"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "HFE",
+        "LiNO3/NmAc(the molar ratio of 1:4)"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0492"
+    },
+    "entities": {
+      "additives": [
+        "TTEP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0493"
+    },
+    "entities": {
+      "additives": [
+        "TPFPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0494"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB",
+        "TMSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0495"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0496"
+    },
+    "entities": {
+      "additives": [
+        "TMSPi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0497"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0498"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0499"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0500"
+    },
+    "entities": {
+      "additives": [
+        "ADMF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0502"
+    },
+    "entities": {
+      "additives": [
+        "LiPF2O2",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0503"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0505"
+    },
+    "entities": {
+      "additives": [
+        "DTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0506"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0507"
+    },
+    "entities": {
+      "additives": [
+        "MDP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0508"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0509"
+    },
+    "entities": {
+      "additives": [
+        "F1EC",
+        "SA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0510"
+    },
+    "entities": {
+      "additives": [
+        "TAP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0513"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0514"
+    },
+    "entities": {
+      "additives": [
+        "EC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0518"
+    },
+    "entities": {
+      "additives": [
+        "PFPDPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0519"
+    },
+    "entities": {
+      "additives": [
+        "PSPAN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0520"
+    },
+    "entities": {
+      "additives": [
+        "TFPN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0521"
+    },
+    "entities": {
+      "additives": [
+        "TB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0522"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0524"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "TPPO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0525"
+    },
+    "entities": {
+      "additives": [
+        "LiDFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0528"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0531"
+    },
+    "entities": {
+      "additives": [
+        "C6H3F3(F3B)"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0535"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0538"
+    },
+    "entities": {
+      "additives": [
+        "APS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0541"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "TEOSCN",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0544"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0547"
+    },
+    "entities": {
+      "additives": [
+        "PTS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0548"
+    },
+    "entities": {
+      "additives": [
+        "MEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0549"
+    },
+    "entities": {
+      "additives": [
+        "TPFPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0550"
+    },
+    "entities": {
+      "additives": [
+        "DMP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0551"
+    },
+    "entities": {
+      "additives": [
+        "TMB",
+        "TPB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0552"
+    },
+    "entities": {
+      "additives": [
+        "TMBDSA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0555"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiODFB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0561"
+    },
+    "entities": {
+      "additives": [
+        "TFPBA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0562"
+    },
+    "entities": {
+      "additives": [
+        "PPTS-NCO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0564"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0566"
+    },
+    "entities": {
+      "additives": [
+        "MDPO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0569"
+    },
+    "entities": {
+      "additives": [
+        "DPDMS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0570"
+    },
+    "entities": {
+      "additives": [
+        "1,2-PS",
+        "1,3-PCS",
+        "DTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0573"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0577"
+    },
+    "entities": {
+      "additives": [
+        "PC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0582"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiDFOB",
+        "PS",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0584"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0587"
+    },
+    "entities": {
+      "additives": [
+        "SiAc"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0593"
+    },
+    "entities": {
+      "additives": [
+        "LiODFB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0596"
+    },
+    "entities": {
+      "additives": [
+        "BP",
+        "CHB",
+        "FEC",
+        "LiDFOB",
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0597"
+    },
+    "entities": {
+      "additives": [
+        "DMS",
+        "DTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0598"
+    },
+    "entities": {
+      "additives": [
+        "TTBB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0601"
+    },
+    "entities": {
+      "additives": [
+        "TMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0602"
+    },
+    "entities": {
+      "additives": [
+        "TMSNCS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0605"
+    },
+    "entities": {
+      "additives": [
+        "4-FI",
+        "PFI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0606"
+    },
+    "entities": {
+      "additives": [
+        "LiPENS",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0610"
+    },
+    "entities": {
+      "additives": [
+        "PHIS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0612"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0613"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0617"
+    },
+    "entities": {
+      "additives": [
+        "DTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0624"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "PES",
+        "PS",
+        "SPA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0625"
+    },
+    "entities": {
+      "additives": [
+        "LiBOB",
+        "LiF2PO2",
+        "LiTMSP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0632"
+    },
+    "entities": {
+      "additives": [
+        "NaH2PO4"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0634"
+    },
+    "entities": {
+      "additives": [
+        "FPS",
+        "PS",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0640"
+    },
+    "entities": {
+      "additives": [
+        "OFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0642"
+    },
+    "entities": {
+      "additives": [
+        "Quercetin"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0643"
+    },
+    "entities": {
+      "additives": [
+        "ETFB",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0645"
+    },
+    "entities": {
+      "additives": [
+        "LiNFBS",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0646"
+    },
+    "entities": {
+      "additives": [
+        "1-phenyl-1H-imidazole-3-ium trifluoromethanesulfonate"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0647"
+    },
+    "entities": {
+      "additives": [
+        "AgNO3",
+        "LiFMDFB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0653"
+    },
+    "entities": {
+      "additives": [
+        "HFE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0657"
+    },
+    "entities": {
+      "additives": [
+        "2(5H)-furanone",
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0660"
+    },
+    "entities": {
+      "additives": [
+        "DTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0664"
+    },
+    "entities": {
+      "additives": [
+        "BO"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0667"
+    },
+    "entities": {
+      "additives": [
+        "CsPF6"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0671"
+    },
+    "entities": {
+      "additives": [
+        "SPBS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0677"
+    },
+    "entities": {
+      "additives": [
+        "PS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0681"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBOP",
+        "PES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0684"
+    },
+    "entities": {
+      "additives": [
+        "PhMS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0686"
+    },
+    "entities": {
+      "additives": [
+        "Cu(NO₃)₂"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0687"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0688"
+    },
+    "entities": {
+      "additives": [
+        "TMSB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0692"
+    },
+    "entities": {
+      "additives": [
+        "CsPF6",
+        "FEC",
+        "PS",
+        "TTMSPI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0693"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0694"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0695"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0700"
+    },
+    "entities": {
+      "additives": [
+        "TTE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0707"
+    },
+    "entities": {
+      "additives": [
+        "PMSVEC100"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0712"
+    },
+    "entities": {
+      "additives": [
+        "BA",
+        "EC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0716"
+    },
+    "entities": {
+      "additives": [
+        "3SF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0718"
+    },
+    "entities": {
+      "additives": [
+        "TRI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0719"
+    },
+    "entities": {
+      "additives": [
+        "Py"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0720"
+    },
+    "entities": {
+      "additives": [
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0724"
+    },
+    "entities": {
+      "additives": [
+        "TFPA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0726"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiNO3"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0729"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0733"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0734"
+    },
+    "entities": {
+      "additives": [
+        "PES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0735"
+    },
+    "entities": {
+      "additives": [
+        "LiFSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0742"
+    },
+    "entities": {
+      "additives": [
+        "EBC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0747"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0749"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0751"
+    },
+    "entities": {
+      "additives": [
+        "TDSTCN"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0757"
+    },
+    "entities": {
+      "additives": [
+        "FI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0765"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0774"
+    },
+    "entities": {
+      "additives": [
+        "APTES"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0776"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0777"
+    },
+    "entities": {
+      "additives": [
+        "LiPO2F2",
+        "PTSI",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0782"
+    },
+    "entities": {
+      "additives": [
+        "EMI-BF4"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0784"
+    },
+    "entities": {
+      "additives": [
+        "TTFP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0790"
+    },
+    "entities": {
+      "additives": [
+        "6FDA",
+        "FPA",
+        "PSA"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0799"
+    },
+    "entities": {
+      "additives": [
+        "CAn",
+        "MB",
+        "SAn",
+        "p-FT",
+        "t-BB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0800"
+    },
+    "entities": {
+      "additives": [
+        "NFSALi"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0802"
+    },
+    "entities": {
+      "additives": [
+        "PTSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0803"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "Li2O2",
+        "PDMS-A",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0811"
+    },
+    "entities": {
+      "additives": [
+        "VEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0812"
+    },
+    "entities": {
+      "additives": [
+        "CsPF6"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0814"
+    },
+    "entities": {
+      "additives": [
+        "FBP",
+        "Li2TB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0815"
+    },
+    "entities": {
+      "additives": [
+        "BS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0825"
+    },
+    "entities": {
+      "additives": [
+        "FSE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0826"
+    },
+    "entities": {
+      "additives": [
+        "LiPO2F2"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0830"
+    },
+    "entities": {
+      "additives": [
+        "PhFSI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0831"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0835"
+    },
+    "entities": {
+      "additives": [
+        "DPE"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0841"
+    },
+    "entities": {
+      "additives": [
+        "FEC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0843"
+    },
+    "entities": {
+      "additives": [
+        "DMF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0849"
+    },
+    "entities": {
+      "additives": [
+        "TDI"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0850"
+    },
+    "entities": {
+      "additives": [
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0863"
+    },
+    "entities": {
+      "additives": [
+        "BAEC",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0868"
+    },
+    "entities": {
+      "additives": [
+        "TMPS",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0869"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "FEC",
+        "PS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0871"
+    },
+    "entities": {
+      "additives": [
+        "LiDFBOP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0872"
+    },
+    "entities": {
+      "additives": [
+        "TPPC2",
+        "TPPC3",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0876"
+    },
+    "entities": {
+      "additives": [
+        "TFME"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0877"
+    },
+    "entities": {
+      "additives": [
+        "DTD",
+        "MDTD",
+        "PDTD"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0884"
+    },
+    "entities": {
+      "additives": [
+        "DEATMS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0885"
+    },
+    "entities": {
+      "additives": [
+        "ES",
+        "VC"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0887"
+    },
+    "entities": {
+      "additives": [
+        "DMPP"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0898"
+    },
+    "entities": {
+      "additives": [
+        "DPDS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0899"
+    },
+    "entities": {
+      "additives": [
+        "PFBS"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0900"
+    },
+    "entities": {
+      "additives": [
+        "BA",
+        "EC",
+        "LBF"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0901"
+    },
+    "entities": {
+      "additives": [
+        "LiDFOB"
+      ]
+    }
+  },
+  {
+    "raw_ref": {
+      "title": "lit_0903"
+    },
+    "entities": {
+      "additives": [
+        "FEC",
+        "LiNO3"
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+tolerance 2.5
+add_box_sides 1
+output 19.pdb # Angstrom = 1/10 nm
+structure FEC.pdb
+  number 52
+  inside cube 0. 0. 0. 50. 50. 50.
+end structure
+
+structure TMP.pdb
+  number 193
+  inside cube 0. 0. 0. 50. 50. 50.
+end structure
+
+structure Li.pdb
+  number 75
+  inside cube 0. 0. 0. 50. 50. 50.
+end structure
+
+structure PF6.pdb
+  number 75
+  inside cube 0. 0. 0. 50. 50. 50.
+end structure
+
+
+

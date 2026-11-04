@@ -1,0 +1,30 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ    fudgeQQ
+     1              2              yes            0.5       0.8333
+
+[ atomtypes ]
+; name   at.num      mass       charge   ptype     sigma (nm)    epsilon (kJ/mol)
+f            9    18.998403    0.000000    A      3.118146E-01    2.552240E-01
+os           8    15.999405    0.000000    A      3.000012E-01    7.112800E-01
+o            8    15.999405    0.000000    A      2.959922E-01    8.786400E-01
+c3           6    12.010736    0.000000    A      3.399670E-01    4.577296E-01
+c            6    12.010736    0.000000    A      3.399670E-01    3.598240E-01
+h2           1     1.007941    0.000000    A      2.293173E-01    6.568880E-02
+h1           1     1.007941    0.000000    A      2.471353E-01    6.568880E-02
+p5          15    30.973762    0.000000    A      3.741775E-01    8.368000E-01
+Li        3     6.940037    0.000000    A      2.262883E-01    1.362520E-02
+
+#include "FEC.itp"
+#include "TMP.itp"
+#include "Li.itp"
+#include "PF6.itp"
+
+[ system ]
+19
+
+[ molecules ]
+; Molecule      nmols
+FEC     52
+TMP     193
+Li     75
+PF6     75

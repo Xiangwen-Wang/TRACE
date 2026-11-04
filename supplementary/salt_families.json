@@ -1,0 +1,37 @@
+{
+  "LiPF6_family": [
+    "LiPF6", "LiPF₆"
+  ],
+
+  "FSI_TFSI_family": [
+    "LiFSI", "LiTFSI", "LiFSA", "LiSFSI",
+    "LiDFTFSI", "LiPDSFSI", "LiFNFSI"
+  ],
+
+  "borate": [
+    "LiBOB"
+  ],
+
+  "borate_fluorinated": [
+    "LiDFOB", "LiODFB", "LiBODFP",
+    "LiBF4", "LiBF₄", "LiBF2(C2O4)"
+  ],
+
+  "phosphate": [
+    "LiPO3", "Li3PO4", "LiH2PO4"
+  ],
+
+  "phosphate_fluorinated": [
+    "LiPO2F2"
+  ],
+
+  "nitrate_perchlorate_family": [
+    "LiNO3", "LiNO₃",
+    "LiClO4", "LiCLO4"
+  ],
+
+  "exotic_salts": [
+    "LiFAP", "LiTFPFB", "LiAsF6",
+    "LiDFTCB", "LiTDI"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "state0": {
+    "composition": {
+      "salt": "LiPF6",
+      "salt_concentration": "1.0 M",
+      "solvents": {
+        "EMC": "0.5",
+        "PC": "0.5"
+      },
+      "additives": {}
+    }
+  },
+  "objective": {
+    "primary": "high_voltage_oxidative_stability",
+    "tags": [
+      "high_voltage_oxidative_stability",
+      "high_voltage_cycling_stability"
+    ],
+    "constraints": {
+      "voltage_window": "2.7-4.5 V",
+      "rate": "1C",
+      "target": "high_voltage"
+    }
+  }
+}

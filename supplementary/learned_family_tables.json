@@ -1,0 +1,31 @@
+{
+  "additives": {},
+  "salts": {},
+  "solvents": {
+    "carbonate_cyclic_fluorinated": [
+      "difluoroethylene carbonate (DFEC)",
+      "fluoroethylene carbonate (FEC)"
+    ],
+    "carbonate_linear_fluorinated": [
+      "2,2,2-trifluoroethyl methyl carbonate (FEMC)",
+      "2,2-difluoroethyl ethyl carbonate (DFDEC)"
+    ],
+    "ester": [
+      "methyl propionate (MP)",
+      "2,2,2-trifluoroethyl propionate (TFP)",
+      "MA",
+      "PP"
+    ],
+    "phosphite": [
+      "trimethyl phosphite",
+      "trimethyl phosphite (TMPi)"
+    ],
+    "ester_fluorinated": [
+      "2,2,2-trifluoroethyl acetate (TFEA)",
+      "TFEA"
+    ],
+    "ether_fluorinated": [
+      "bis(2,2,2-trifluoroethyl) ether (BTFE)"
+    ]
+  }
+}

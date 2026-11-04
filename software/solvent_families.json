@@ -1,0 +1,117 @@
+{
+  "carbonate_cyclic": [
+    "EC", "PC"
+  ],
+
+  "carbonate_cyclic_fluorinated": [
+    "FEC", "DFEC", "TFPC", "F1EC"
+  ],
+
+  "cyclic_carbonate_unsaturated": [
+    "VC", "VEC"
+  ],
+
+  "carbonate_linear": [
+    "DMC", "DEC", "EMC", "BMC"
+  ],
+
+  "carbonate_linear_fluorinated": [
+    "FEMC", "FDEC", "DFDEC", "TFEC"
+  ],
+
+  "ester": [
+    "EA", "MB", "EB"
+  ],
+
+  "ester_fluorinated": [
+    "EA-f", "ETFA", "EDFA", "MDFA", "MTFA", "TFANP", "MSTFA", "DMTFA", "TFEM", "TFPA"
+  ],
+
+  "lactone": [
+    "GBL"
+  ],
+
+  "lactam": [
+    "BL"
+  ],
+
+  "ether": [
+    "DME", "DEE", "DGDME", "DEGDME", "G2", "G2E",
+    "DMM", "MPE"
+  ],
+
+  "ether_fluorinated": [
+    "TTE", "BTFE", "TFEE", "MFE", "FEPE",
+    "HFE", "HFE-4", "HFE-5", "HFE-347",
+    "HFEPN", "SFE", "F-EPE", "FEON", "TFPMS"
+  ],
+
+  "ether_cyclic": [
+    "THF", "DOL", "1,3-dioxane", "THP"
+  ],
+
+  "nitrile": [
+    "AN", "An",
+    "ADN", "glutaronitrile", "butyronitrile",
+    "G1-CN"
+  ],
+
+  "nitrile_fluorinated": [
+    "FAN"
+  ],
+
+  "phosphate": [
+    "TMP", "TEP", "DMMP", "TMPa", "DMEP",
+    "TPPC2", "TPPC3"
+  ],
+
+  "phosphate_fluorinated": [
+    "TFEP"
+  ],
+
+  "phosphazene_fluorinated": [
+    "FPPN", "PFPN"
+  ],
+
+  "sulfone_sulfoxide": [
+    "DMSO", "DMS", "TMS",
+    "THT1oxide",
+    "SL", "DES", "ES"
+  ],
+
+  "organoboron_fluorinated": [
+    "TFPBA"
+  ],
+
+  "aromatic": [
+    "TOL"
+  ],
+
+  "aromatic_fluorinated": [
+    "DFB", "1,2-dfB", "1,2-dfBen",
+    "2FB", "2-FP", "3FB"
+  ],
+
+  "halogenated": [
+    "DCM"
+  ],
+
+  "ionic_liquid": [
+    "[MEMP][TFSI]IL",
+    "EMIMTFSI",
+    "PYR1,4-TFSI",
+    "PP13TFSI"
+  ],
+
+  "polar_aprotic": [
+    "DMF", "DMAC"
+  ],
+
+  "siloxane": [
+    "TEOS", "TEOSCN"
+  ],
+
+  "water": [
+    "H2O"
+  ]
+}
